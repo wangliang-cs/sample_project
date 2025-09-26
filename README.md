@@ -10,11 +10,11 @@ This is a sample project to experience git-based cooperation
    * For Ubuntu/Debian users: install with command `apt-get install git`
    * For MacOS users: **I do not use Mac, so somebody please help me to complete this part. Thank you.**
 5. make some modifications to your local copy, in this example, please append your name (or nick name) and date to the following `Contributors` section
-6. use `git add .`, `git commit` or `git commit =m "<some git comments here>" to commit your work
+6. use `git add .`, `git commit` or `git commit =m "&lg;some git comments here&g;" to commit your work
 7. use `git push` to push your local modifications to your remote repo hosted on GitHub
 8. generate a Pull-Request to merge your changes to this repo
 9. [Optional] use `git log` or `git log -p` to check your modification history
-10. [Optional] try `git branch`, `git branch <branch name>`, and `git checkout <branch name>` to check and switch between your branches
+10. [Optional] try `git branch`, `git branch &lg;branch name&g;`, and `git checkout &lg;branch name&g;` to check and switch between your branches
 11. [Optional] raise an Issue in this repo and leave some comments
 
 # Contributors
