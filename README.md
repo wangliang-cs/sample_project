@@ -14,7 +14,7 @@ This is a sample project to experience git-based cooperation
 7. use `git push` to push your local modifications to your remote repo hosted on GitHub
 8. generate a Pull-Request to merge your changes to this repo
 9. [Optional] use `git log` or `git log -p` to check your modification history
-10. [Optional] try `git branch`, `git branch \<branch name\>`, and `git checkout \<branch name\>` to check and switch between your branches
+10. [Optional] try `git branch`, `git branch <branch name>`, and `git checkout <branch name>` to check and switch between your branches
 11. [Optional] raise an Issue in this repo and leave some comments
 
 # Contributors
