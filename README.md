@@ -4,8 +4,8 @@ This is a sample project to experience git-based cooperation
 # For Students Todo
 
 1. register an account on GitHub
-2. fork this repository to generator your own repo
-3. use `git clone` on your own local machine to get a local copy of your repo, you need to install a git client on your local machine
+2. fork this repository to get a copy owned by you
+3. use `git clone` on your own local machine to get a local copy of your repo (short for repository), you need to install a git client on your local machine
    * For windows users: https://git-scm.com/downloads/win
    * For Ubuntu/Debian users: install with command `apt-get install git`
    * For MacOS users: **I do not use Mac, so somebody please help me to complete this part. Thank you.**
